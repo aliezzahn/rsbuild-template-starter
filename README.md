@@ -1,29 +1,18 @@
-# Rsbuild project
+# RSBuild React Tailwind Starter Template
 
-## Setup
+This starter template provides a robust foundation for web development using RSBuild, React v19, TailwindCSS v4, Shadcn/UI, and Typescript.
 
-Install the dependencies:
+## Features
 
-```bash
-pnpm install
-```
+- **React v19**: Utilize the latest version of React for efficient component-based UI development.
+- **TailwindCSS v4**: Rapidly build modern, responsive UIs using utility-first CSS framework.
+- **Shadcn/UI**: Integrate stylish UI components from Shadcn for enhanced visual appeal.
+- **Typescript**: Enhance code quality and developer productivity with TypeScript's static typing.
 
-## Get started
+## Contributing
 
-Start the dev server:
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-```bash
-pnpm dev
-```
+## License
 
-Build the app for production:
-
-```bash
-pnpm build
-```
-
-Preview the production build locally:
-
-```bash
-pnpm preview
-```
+This project is licensed under the MIT License - see the LICENSE file for details.
